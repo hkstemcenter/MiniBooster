@@ -28,7 +28,7 @@ let table = [
 ]
 
 //% weight=100 color="#F59E20" icon="\uf0c3"
-namespace Muse21 {
+namespace MiniBooster {
 
     export enum inputPorts {
         //% block="P0"
